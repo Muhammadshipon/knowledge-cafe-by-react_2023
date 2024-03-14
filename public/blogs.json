@@ -1,0 +1,53 @@
+[
+  {
+    "id": 123456,
+    "cover": "https://i.ibb.co/RPK28kz/coverpic1.jpg",
+    "title": "The Enigmatic Forest",
+    "author": "Samantha Green",
+    "author_img": "https://i.ibb.co/Nmqs5n2/author1-1280.jpg",
+    "posted_date": "March 13, 2024",
+    "reading_time": 10,
+    "hashtags": ["#nature", "#mystery", "#adventure"]
+  },
+  {
+    "id": 789012,
+    "cover": "https://i.ibb.co/Sms2Rr2/coverpic2.jpg",
+    "title": "Beyond the Horizon",
+    "author": "Michael Andrews",
+    "author_img": "https://i.ibb.co/KF49ntX/autor2.jpg",
+    "posted_date": "March 12, 2024",
+    "reading_time": 15,
+    "hashtags": ["#fantasy", "#journey", "#exploration"]
+  },
+  {
+    "id": 345678,
+    "cover": "https://i.ibb.co/rmzG2R2/cover-3.jpg",
+    "title": "Echoes of Time",
+    "author": "Alex Johnson",
+    "author_img": "https://i.ibb.co/GJJ6B97/author3.jpg",
+    "posted_date": "March 11, 2024",
+    "reading_time": 12,
+    "hashtags": ["#history", "#mystery", "#time_travel"]
+  },
+  {
+    "id": 901234,
+    "cover": "https://i.ibb.co/5G3JDPx/cover4.jpg",
+    "title": "Whispering Shadows",
+    "author": "Emily Roberts",
+    "author_img": "https://i.ibb.co/Ms0PK0Z/author4.jpg",
+    "posted_date": "March 10, 2024",
+    "reading_time": 8,
+    "hashtags": ["#supernatural", "#haunting", "#ghosts"]
+  },
+  {
+    "id": 567890,
+    "cover": "https://i.ibb.co/r6wr2qp/pngtree-horizontal-multicolored-background-for-various-uses-stripes-strips-textured-photo-image-3606.jpg",
+    "title": "Serenade of Stars",
+    "author": "Daniel Thompson",
+    "author_img": "https://i.ibb.co/RgS6N33/author5.jpg",
+    "posted_date": "March 9, 2024",
+    "reading_time": 20,
+    "hashtags": ["#science_fiction", "#space", "#exploration"]
+  }
+]
+
